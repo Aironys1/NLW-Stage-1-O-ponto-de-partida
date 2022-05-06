@@ -5,4 +5,5 @@
         Imagem do projeto abaixo:
       </p>
     </div>
-    <img src="../ImagemProjeto/mobile.png" alt="Imagem do projeto" />
+    <img src="ImagemProjeto/mobile.png" alt="Imagem do projeto" />
+
